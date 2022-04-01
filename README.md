@@ -24,7 +24,7 @@
   
 ### - Languages and Tools...
 
-<p align="center">
+<p align="left">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
@@ -47,17 +47,17 @@
 
 </details>
 
-<p align="center"> 
+<p align="right"> 
   <i> Let's connect! :incoming_envelope: </i>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/breno-henrique-castro-lira-5637aa214/"><img src="https://github.com/bhclira/bhclira/blob/main/linkedin.svg" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/brenoman"><img src="https://github.com/bhclira/bhclira/blob/main/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/Brenoman1"><img src="https://github.com/bhclira/bhclira/blob/main/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
-<p align="center">
+<p align="right">
   <i> open to new job opportunities :sparkles: </i>
 </p>
 

@@ -29,18 +29,11 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/bhclira/bhclira/blob/main/python.png" alt="python" style="vertical-align:top; margin:4px">
-  
   <img src="https://github.com/bhclira/bhclira/blob/main/js.png" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/bhclira/bhclira/blob/main/java.png?raw=true" alt="java" style="vertical-align:top; margin:4px">
-  
-  
   <img src="https://github.com/bhclira/bhclira/blob/main/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   
-  
-
----
-
-  </p>
+</p>
 
 ### - I'm currently...
 

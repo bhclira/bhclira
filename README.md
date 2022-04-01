@@ -28,13 +28,13 @@
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://github.com/bhclira/bhclira/blob/main/python.png?raw=true" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/bhclira/bhclira/blob/main/python.png" alt="python" style="vertical-align:top; margin:4px">
   
-  <img src="https://github.com/bhclira/bhclira/blob/main/js.png?raw=true" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/bhclira/bhclira/blob/main/js.png" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/bhclira/bhclira/blob/main/java.png?raw=true" alt="java" style="vertical-align:top; margin:4px">
   
   
-  <img src="https://raw.githubusercontent.com/bhclira/bhclira/d98e9b96e39e2f9206bae3c26b826e9e2556ec9e/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/bhclira/bhclira/blob/main/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   
   
 
@@ -59,9 +59,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/breno-henrique-castro-lira-5637aa214/"><img src="https://raw.githubusercontent.com/bhclira/bhclira/c6dc405b0855f6a5bd20b76024de7bf8a95de5c4/linkedin.svg" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/breno-henrique-castro-lira-5637aa214/"><img src="https://github.com/bhclira/bhclira/blob/main/linkedin.svg" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/brenoman"><img src="https://github.com/bhclira/bhclira/blob/main/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/Brenoman1"><img src="https://raw.githubusercontent.com/bhclira/bhclira/c6dc405b0855f6a5bd20b76024de7bf8a95de5c4/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://twitter.com/Brenoman1"><img src="https://github.com/bhclira/bhclira/blob/main/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
@@ -69,7 +69,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p>

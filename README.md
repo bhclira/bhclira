@@ -28,13 +28,13 @@
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/bhclira/bhclira/blob/main/python.png?raw=true" alt="python" style="vertical-align:top; margin:4px">
   
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/bhclira/bhclira/blob/main/js.png?raw=true" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/bhclira/bhclira/blob/main/java.png?raw=true" alt="java" style="vertical-align:top; margin:4px">
   
   
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bhclira/bhclira/d98e9b96e39e2f9206bae3c26b826e9e2556ec9e/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   
   
 

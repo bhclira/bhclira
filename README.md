@@ -59,9 +59,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/breno-henrique-castro-lira-5637aa214/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/brenoman"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/Brenoman1"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/breno-henrique-castro-lira-5637aa214/"><img src="https://raw.githubusercontent.com/bhclira/bhclira/c6dc405b0855f6a5bd20b76024de7bf8a95de5c4/linkedin.svg" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/brenoman"><img src="https://github.com/bhclira/bhclira/blob/main/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/Brenoman1"><img src="https://raw.githubusercontent.com/bhclira/bhclira/c6dc405b0855f6a5bd20b76024de7bf8a95de5c4/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
 <p align="center">

@@ -55,7 +55,7 @@
 </details>
 
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i> Let's connect! :incoming_envelope: </i>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
+  <i> open to new job opportunities :sparkles: </i>
 </p>
 
 <br>

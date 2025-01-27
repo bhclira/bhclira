@@ -33,7 +33,7 @@ Programador Full-stack  -status: loading-
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=alurafone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bhclira/alurafone)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=aluramid&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bhclira/aluramid)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bhclira/pokedex)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=conversor-moedas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/bhclira/conversor-moedas](https://github.com/bhclira/conversor_moedas))
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=conversor_moedas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bhclira/conversor_moedas)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
 
 ### Meus Principais Artigos na DIO

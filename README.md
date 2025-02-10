@@ -29,6 +29,7 @@ Programador Full-stack  -status: loading-
 
 ### Meus Principais Desafios de Projeto DIO
 
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bhclira/pokedex](https://github.com/bhclira/js-developer-portfolio/tree/projeto-base))
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bhclira/dio-lab-open-source)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=alurafone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bhclira/alurafone)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=bhclira&repo=aluramid&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bhclira/aluramid)

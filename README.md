@@ -33,7 +33,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará informações sobre meus pro
 
 Você pode acessar meu portfólio online através do seguinte link:
 
-[Meu Portfólio no GitHub Pages](https://bhclira.github.io/js-developer-portfolio/)
+[Meu Portfólio no GitHub Pages](https://bhclira.github.io/js-developer-portfolio/){:target="_blank"}
 
 Sinta-se à vontade para explorar e entrar em contato se tiver alguma dúvida ou oportunidade interessante!
 

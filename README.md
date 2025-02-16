@@ -53,9 +53,9 @@ __
   <tbody align="left">
     <tr>
       <td>14/12/2022</td>
-      <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
+      <td>JAVA - Variáveis e Referências</td>
       <td align="center">
-        <a href="https://https://web.dio.me/articles/java-variaveis-e-referencias">
+        <a href="https://web.dio.me/articles/java-variaveis-e-referencias">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>

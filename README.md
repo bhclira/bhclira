@@ -55,44 +55,16 @@ __
       <td>14/12/2022</td>
       <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
       <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
+        <a href="https://https://web.dio.me/articles/java-variaveis-e-referencias">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
-    </tr>
-    <tr>
-      <td>21/10/2022</td>
-      <td>Crie Seu Próprio Web Component</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>30/06/2022</td>
-      <td>Destrave seu Primeiro Desafio de Código</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>21/04/2022</td>
-      <td>5 Dicas para Melhorar seu Profile README do GitHub</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
     </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
 
 ---
-  <a href="https://twitter.com/Brenoman1"><img src="https://github.com/bhclira/bhclira/blob/main/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
 <p align="right">

@@ -52,7 +52,7 @@ __
   </thead>
   <tbody align="left">
     <tr>
-      <td>14/12/2022</td>
+      <td>16/02/2025</td>
       <td>JAVA - Variáveis e Referências</td>
       <td align="center">
         <a href="https://web.dio.me/articles/java-variaveis-e-referencias">

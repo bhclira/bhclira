@@ -59,6 +59,8 @@ __
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
+    </tr>
+    <tr>
       <td>19/03/2025</td>
       <td>GitHub Copilot - Passo a passo para iniciar seu Agente de 'Pair Programming'</td>
       <td align="center">

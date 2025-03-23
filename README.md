@@ -59,6 +59,13 @@ __
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
+      <td>19/03/2025</td>
+      <td>GitHub Copilot - Passo a passo para iniciar seu Agente de 'Pair Programming'</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/github-copilot-passo-a-passo-para-iniciar-seu-agente-de-pair-programming-bf79c2a62079?back=/articles">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>
     </tr>
   </tbody>
   <tfoot></tfoot>

@@ -1,6 +1,10 @@
-# Breno Lira
+# Intro 💬
 
-Programador Full-stack  -status: loading-
+🙋 Olá, me chamo Breno Henrique!  
+💪 Um Professor de Ed. Física Autista que estuda Programação.  
+👷 E um Programador Full-Stack "Under Construction".  
+<br> Seja bem-vindo(a) ao meu GitHub, interaja com meus Projetos e atividades, incentive-me e obrigado pela visita!<br>
+<br> Aproveite sua estada!<br>
 
 ### Conecte-se comigo
 

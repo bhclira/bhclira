@@ -28,8 +28,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhclira&amp;theme=transparent&amp;bg_color=000&amp;border_color=30A3DC&amp;show_icons=true&amp;icon_color=30A3DC&amp;title_color=E94D5F&amp;text_color=FFF" alt="GitHub Stats" width="495" height="195">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhclira&amp;layout=compact&amp;bg_color=000&amp;border_color=30A3DC&amp;title_color=E94D5F&amp;text_color=FFF" alt="Top Langs" width="350" height="165">
+  <img loading="lazy" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhclira&amp;theme=transparent&amp;bg_color=000&amp;border_color=30A3DC&amp;show_icons=true&amp;icon_color=30A3DC&amp;title_color=E94D5F&amp;text_color=FFF" alt="GitHub Stats" width="495" height="195">
+  <img loading="lazy" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhclira&amp;layout=compact&amp;bg_color=000&amp;border_color=30A3DC&amp;title_color=E94D5F&amp;text_color=FFF" alt="Top Langs" width="350" height="165">
 </p>
 
 # Meu Portfólio
